@@ -1,4 +1,4 @@
-#*.db
-#*.log
-#ignore all files in the directory target/
-#ignore all files in the directory bin/
+*.db
+*.log
+/target
+/bin
